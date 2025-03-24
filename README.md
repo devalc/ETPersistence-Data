@@ -30,3 +30,7 @@ This folder contains a layer that provides following information at each field i
 ## Citation  
 If you use this dataset, please cite the corresponding manuscript:  
 > **[Full citation will be added here once the manuscript is in print]**
+
+Additionally, please cite the dataset via Zenodo:  
+
+[![DOI](https://zenodo.org/badge/953253548.svg)](https://doi.org/10.5281/zenodo.15078546)
