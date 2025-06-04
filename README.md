@@ -1,6 +1,6 @@
 # ETPersistence-Data
 
-This repository contains the data used in the manuscript titled *"Persistence patterns in subfield-field crop water use to guide variable rate management."*
+This repository contains the data used in the manuscript titled *"Persistence patterns in sub-field crop water use to guide variable rate management."*
 
 ## Contents of the Repository
 
