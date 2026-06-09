@@ -29,7 +29,7 @@ This folder contains a layer that provides following information at each field i
 
 ## Citation  
 If you use this dataset, please cite the corresponding manuscript:  
-> **[Full citation will be added here once the manuscript is in print]**
+> **Deval, C.; Brooks, E.S.; Schott, L.R.; Kelley, J.; Bjorneberg, D.L. Persistence Patterns in Subfield Crop Water Use to Guide Varia-ble Rate Management. Environ. Res.: Water 2025, 1, 025001, doi:10.1088/3033-4942/addc8f.**
 
 Additionally, please cite the dataset via Zenodo:  
 
